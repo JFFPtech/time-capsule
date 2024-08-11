@@ -21,5 +21,5 @@ This project is a web application that allows users to create digital time capsu
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/time_capsule.git
+   git clone https://github.com/JFFPtech/time_capsule.git
    cd time_capsule
